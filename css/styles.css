@@ -56,8 +56,8 @@ p {
 
 .nav-text {
     /* /* margin-left: 10%; */
-    margin-left: 10%;
-    font-size: 24px;
+    font-size: 22px;
+    font-weight: bold;
     /* margin-right: 50px */
     /* padding-left: 20% !important;
     padding-right: 10% !important; */
@@ -75,7 +75,6 @@ nav {
     background-color: #055ce8;
     padding-top: 15px;
     padding-bottom: 15px;
-    /* height: 75px; */
 } 
 
 nav a {
