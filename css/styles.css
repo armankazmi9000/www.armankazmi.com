@@ -54,6 +54,15 @@ p {
     width: 50px;
 }
 
+.nav-text {
+    /* /* margin-left: 10%; */
+    margin-left: 10%;
+    font-size: 24px;
+    /* margin-right: 50px */
+    /* padding-left: 20% !important;
+    padding-right: 10% !important; */
+}
+
 nav {
     /* disable selection of nav items when active */
     -webkit-user-select: none;
@@ -61,6 +70,11 @@ nav {
     -ms-user-select: none;
     user-select: none;
 }
+
+.navbar{
+    background-color: #055ce8;
+    height: 75px;
+} 
 
 nav a {
     /* disable dragging of links */
