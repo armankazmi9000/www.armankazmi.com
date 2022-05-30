@@ -86,7 +86,7 @@ nav a {
 .navbar .dropdown-menu {
     min-width: 0;
     width: 100%;
-    background-color: #212529fa; /* color from bootstrap bs-dark */
+    background-color: #101fe8; /* color from bootstrap bs-dark */
 }
 
 /* Add more padding to small screens */
